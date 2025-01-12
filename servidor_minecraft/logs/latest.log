@@ -77,3 +77,58 @@
 [00:50:40] [Server thread/INFO]: [COLA | uncrid: Set [start] for COLA | uncrid to 0]
 [00:50:49] [Server thread/INFO]: uncrid issued server command: /effect clear
 [00:50:49] [Server thread/INFO]: [COLA | uncrid: Removed every effect from COLA | uncrid]
+[00:52:58] [Server thread/INFO]: uncrid issued server command: /scoreboard players set uncrid start 1
+[00:52:58] [Server thread/INFO]: [COLA | uncrid: Set [start] for COLA | uncrid to 1]
+[00:53:19] [Server thread/INFO]: uncrid issued server command: /effect give @a minecraft:night_vision
+[00:53:19] [Server thread/INFO]: [COLA | uncrid: Applied effect Night Vision to COLA | uncrid]
+[00:53:24] [Server thread/INFO]: uncrid issued server command: /effect give @a minecraft:night_vision infinite 99 false
+[00:53:24] [Server thread/INFO]: [COLA | uncrid: Applied effect Night Vision to COLA | uncrid]
+[00:53:26] [Server thread/INFO]: uncrid issued server command: /effect give @a minecraft:night_vision infinite 99 true
+[00:53:26] [Server thread/INFO]: [COLA | uncrid: Applied effect Night Vision to COLA | uncrid]
+[00:53:44] [Server thread/INFO]: uncrid issued server command: /team leave
+[00:53:46] [Server thread/INFO]: uncrid issued server command: /team leave @a
+[00:53:46] [Server thread/INFO]: [COLA | uncrid: Removed uncrid from any team]
+[00:53:59] [Server thread/INFO]: uncrid issued server command: /scoreboard players set uncrid clSecs 3100
+[00:53:59] [Server thread/INFO]: [uncrid: Set [clSecs] for uncrid to 3100]
+[00:54:16] [Server thread/INFO]: uncrid issued server command: /team join cola
+[00:54:16] [Server thread/INFO]: [uncrid: Added COLA | uncrid to team [cola]]
+[00:55:14] [Server thread/INFO]: uncrid issued server command: /team leave @a
+[00:55:14] [Server thread/INFO]: [COLA | uncrid: Removed uncrid from any team]
+[00:55:16] [Server thread/INFO]: uncrid issued server command: /team join cola
+[00:55:16] [Server thread/INFO]: [uncrid: Added COLA | uncrid to team [cola]]
+[00:55:18] [Server thread/INFO]: uncrid issued server command: /team leave @a
+[00:55:18] [Server thread/INFO]: [COLA | uncrid: Removed uncrid from any team]
+[00:55:25] [Server thread/INFO]: uncrid issued server command: /scoreboard players set uncrid start 0
+[00:55:25] [Server thread/INFO]: [uncrid: Set [start] for uncrid to 0]
+[00:56:01] [Server thread/INFO]: uncrid issued server command: /tps
+[00:56:12] [Server thread/INFO]: uncrid issued server command: /team list cola
+[00:56:14] [Server thread/INFO]: uncrid issued server command: /team list sincola
+[00:56:18] [Server thread/INFO]: uncrid issued server command: /team leave
+[00:56:20] [Server thread/INFO]: uncrid issued server command: /team leave uncrid
+[00:56:20] [Server thread/INFO]: [uncrid: Removed uncrid from any team]
+[00:56:58] [Server thread/INFO]: uncrid lost connection: Disconnected
+[00:56:58] [Server thread/INFO]: uncrid left the game
+[00:57:05] [Server thread/INFO]: Stopping the server
+[00:57:05] [Server thread/INFO]: Stopping server
+[00:57:05] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+[00:57:05] [Server thread/INFO]: Saving players
+[00:57:05] [Server thread/INFO]: Saving worlds
+[00:57:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:57:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[00:57:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[00:57:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[00:57:05] [Server thread/INFO]: [ChunkHolderManager] Saved 12 block chunks, 9 entity chunks, 0 poi chunks in world 'world' in 0.02s
+[00:57:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:57:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[00:57:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[00:57:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[00:57:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[00:57:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:57:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[00:57:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[00:57:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[00:57:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[00:57:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:57:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:57:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:57:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
