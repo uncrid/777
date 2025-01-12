@@ -1,13 +1,13 @@
 {
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2024-12-22 04:01:31 +0000"
+      "unlock_right_away": "2025-01-11 23:55:34 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:plains": "2024-12-22 04:01:32 +0000"
+      "minecraft:plains": "2025-01-11 23:55:35 +0000"
     },
     "done": false
   },
